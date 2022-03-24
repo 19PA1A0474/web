@@ -1,0 +1,49 @@
+body{
+    color: pink;
+    font-size: 60px;
+    background: url(https://th.bing.com/th/id/R.c5bbed0d77828c2600f9b0abbe6958b1?rik=Lx1IOEpcroWdxA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fLSww4vZ.jpg&ehk=iMDmyGjZSPfNWzC3XCZ3dEdKCunT7ViBB97Y8olvtoQ%3d&risl=&pid=ImgRaw&r=0) right top repeat-x;
+    background-size: 520px;
+}
+pre{
+    color:greenyellow;
+    position: relative;
+    background-image: radial-gradient( red,orange,skyblue);
+
+}
+h1{
+    color: black;
+    font-size: 50px;
+}
+/* 
+    i want my name to look special
+*/
+h4{
+    color: yellow;
+}
+b{
+    border-top-style: dashed;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: thick;
+    position: relative;
+}
+figcaption{
+    color: brown;
+}
+/*
+red color will be overrided
+*/
+
+u{
+    text-decoration: teal;
+    text-transform: uppercase;
+    color: red;
+}
+#one{
+    border-radius: 0vmax;
+    background-image: repeating-radial-gradient(red,orange)
+}
+html{
+    background-image: radial-gradient(black,yellow,orange);
+}
